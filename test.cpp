@@ -18,6 +18,12 @@ void dort(int i)
   test1();
 }
 
+void dort4(int i)
+{
+  printf("da");
+  test1();
+}
+
 
 void dort2(int i)
 {
@@ -29,7 +35,7 @@ int dada2()
 {
 	test1(blah);
 	test2();
-	test3();
+	test7();
 }
 
 
