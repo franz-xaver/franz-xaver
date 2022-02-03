@@ -7,7 +7,7 @@ int main(int argc, char** argv)
 
 int dada()
 {
-	test1();
+	test();
 	test2();
 }
 
@@ -30,4 +30,11 @@ int dada2()
 	test1(blah);
 	test2();
 	test3();
+}
+
+
+void dort3(int i)
+{
+  printf("da");
+  test1();
 }
