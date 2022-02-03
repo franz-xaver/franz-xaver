@@ -19,22 +19,9 @@ void dort(int i)
 }
 
 
-void dort2(int i)
-{
-  printf("da");
-  test1();
-}
-
 int dada2()
 {
 	test1(blah);
 	test2();
 	test3();
-}
-
-
-void dort3(int i)
-{
-  printf("da");
-  test1();
 }
