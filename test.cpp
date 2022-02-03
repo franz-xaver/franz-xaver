@@ -2,8 +2,7 @@
 
 int main(int argc, char** argv)
 {
-	test1(blah);
-	test2();
+	test2(blah, blah);
 }
 
 int dada()
@@ -16,4 +15,12 @@ int dada()
 void dort(int i)
 {
   printf("%d", i);
+  test1();
+}
+
+
+int dada2()
+{
+	test1(blah);
+	test2();
 }
