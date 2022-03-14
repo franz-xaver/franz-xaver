@@ -19,9 +19,21 @@ void dort(int i)
 }
 
 
-int dada2(float bratfett)
+int dada2()
 {
 	testx1(blah);
 	test2();
 	test3();
+}
+
+float bratfett(float bratfett)
+{
+	int knacker = 200;
+	knacker *= bratfett;
+	return knacker;
+}
+
+int herbert()
+{
+  return 7;	
 }
