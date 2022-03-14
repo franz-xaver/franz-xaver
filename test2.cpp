@@ -32,3 +32,10 @@ float bratfett(float bratfett)
 	knacker *= bratfett;
 	return knacker;
 }
+
+double brunzkachel()
+{
+	int hauwech = 200;
+	double dütü = hauwech * 2.8;
+	return dütü;
+}
