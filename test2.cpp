@@ -33,7 +33,14 @@ float bratfett(float bratfett)
 	return knacker;
 }
 
-int herbert()
+double brunzkachel()
 {
-  return 7;	
+	int hauwech = 200;
+	double dütü = hauwech * 2.8;
+	return dütü;
+}
+
+int herbert(int laus)
+{
+  return 7 * laus;	
 }
