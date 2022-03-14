@@ -19,7 +19,7 @@ void dort(int i)
 }
 
 
-int dada2()
+int dada2(float bratfett)
 {
 	testx1(blah);
 	test2();
