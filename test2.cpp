@@ -39,3 +39,8 @@ double brunzkachel()
 	double dütü = hauwech * 2.8;
 	return dütü;
 }
+
+int herbert()
+{
+  return 7;	
+}
