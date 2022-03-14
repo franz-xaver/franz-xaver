@@ -40,7 +40,7 @@ double brunzkachel()
 	return dütü;
 }
 
-int herbert()
+int herbert(int laus)
 {
-  return 7;	
+  return 7 * laus;	
 }
