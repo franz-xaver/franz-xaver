@@ -25,3 +25,10 @@ int dada2()
 	test2();
 	test3();
 }
+
+float bratfett(float bratfett)
+{
+	int knacker = 200;
+	knacker *= bratfett;
+	return knacker;
+}
