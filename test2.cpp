@@ -32,3 +32,8 @@ float bratfett(float bratfett)
 	knacker *= bratfett;
 	return knacker;
 }
+
+int herbert()
+{
+  return 7;	
+}
